@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.postimg.cc/KjfdBbYf/deng-xiang-WXQm-NTK0-U-unsplash.jpg" alt="Banner" width="1200" height="400"/>
+</p>
 
-<!--
-**Coolbuddy145/Coolbuddy145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Zaid Khan</h1>
+<h3 align="center">A Data Analyst 🔍📊</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🌱 Currently diving deeper into **SQL, Python, Power BI, Excel**
+- 🛠️ Practicing **EDA Projects**, building dashboards & extracting insights
+- 💬 Ask me about: `Excel`, `Power BI`, `SQL`, `Python`, `EDA`
+- 💡 Learning through hands-on projects and analysis challenges
+- 🎯 Goal: To land a Data Analyst role at a reputed firm like **Barclays**
+
+---
+
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/zaid-khan-164239261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" />
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
+</p>
+
+---
+
+
+
