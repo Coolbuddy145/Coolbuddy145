@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/KjfdBbYf/deng-xiang-WXQm-NTK0-U-unsplash.jpg" alt="Banner" width="1200" height="300"/>
+  <img src="https://i.postimg.cc/KjfdBbYf/deng-xiang-WXQm-NTK0-U-unsplash.jpg" alt="Banner" width="1200" height="350"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Zaid Khan</h1>
