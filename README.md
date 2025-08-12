@@ -34,6 +34,13 @@
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Coolbuddy145/Coolbuddy145/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Coolbuddy145/Coolbuddy145/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+  
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" />
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
 </p>
