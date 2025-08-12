@@ -1,47 +1,31 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    # every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *" # every 6 hours
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # Checkout the repo
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      # Generate the snake from contributions
-      - name: Generate Snake from Contributions
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: Coolbuddy145   # Your GitHub username here
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: Coolbuddy145
+          outputs: dist/github-contribution-grid-snake.svg
 
-      # Show git status for debugging
-      - run: git status
-
-      # Push changes to your branch
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.8.0
+      - name: Push to main branch
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main   # Change to 'master' if that's your default branch
-          force: true
-
-      # Deploy to GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4.0.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: "Generate snake animation"
+          add: "dist/github-contribution-grid-snake.svg"
+          branch: main
