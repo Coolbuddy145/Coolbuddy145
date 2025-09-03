@@ -13,7 +13,7 @@
 - 🛠️ Practicing **EDA Projects**, building dashboards & extracting insights
 - 💬 Ask me about: `Excel`, `Power BI`, `SQL`, `Python`, `EDA`
 - 💡 Learning through hands-on projects and analysis challenges
-- 🎯 Goal: To land a Data Analyst role at a reputed firm like **Barclays**
+
 
 ---
 
