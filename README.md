@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/KjfdBbYf/deng-xiang-WXQm-NTK0-U-unsplash.jpg" alt="Banner" width="1100" height="350"/>
 </p>
-a
+
 <h1 align="center">Hi 👋, I'm Zaid Khan</h1>
 <h3 align="center">A Passionate Data Analyst | Transforming Raw Data into Actionable Insights</h3>
 
