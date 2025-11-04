@@ -4,26 +4,26 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Zaid Khan</h1>
-<h3 align="center">A Passionate Data Analyst | Transforming Raw Data into Actionable Insights</h3>
+<h3 align="center">Data Analyst | Turning Raw Data into Business Intelligence</h3>
 
 ---
 
 ## 📊 About Me
-- 🔍 **Data Storyteller** with expertise in extracting meaningful insights from complex datasets
-- 🌱 Currently mastering **Advanced SQL, Python for Data Analysis, Power BI, and Machine Learning**
-- 📈 Building **end-to-end analytics projects** - from data collection to visualization and insights
-- 💼 Open to **Data Analyst, Business Intelligence Analyst, and Data-focused roles**
-- 🎯 Passionate about **data-driven decision making** and **business intelligence**
+- 🔍 **Data Storyteller** passionate about translating data into clear, actionable insights.
+- 🌱 Currently mastering **Advanced SQL**, **Python for Data Analysis**, **Power BI**, and **Machine Learning**.
+- 🧠 Experienced in building **end-to-end analytical workflows** — from data collection & cleaning to visualization & modeling.
+- 💼 Open to **Data Analyst**, **BI Analyst**, or **Data Science Associate** roles.
+- 🎯 My focus: **Making data speak for business growth and strategic decisions.**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 📝 Programming & Databases
+### 🧮 Programming & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ### 📊 Data Analysis & Visualization
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
 </p>
 
-### 🐍 Python Data Science Libraries
+### 🐍 Python Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -42,15 +42,15 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 </p>
 
-### 🤖 Machine Learning Libraries
+### 🤖 Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/XGBoost-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost"/>
 </p>
 
-### 🔧 Development & Tools
+### 🧰 Tools & Environment
 <p align="left">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -60,7 +60,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 What I Do
+- 📊 **Data Cleaning & Preprocessing** — handling missing data, outliers, and feature engineering.  
+- 🔍 **Exploratory Data Analysis (EDA)** — finding hidden trends and insights using Python and SQL.  
+- 📈 **Data Visualization** — creating dashboards that drive decisions.  
+- 🧮 **Statistical Analysis** — hypothesis testing and correlation analysis.  
+- 🤖 **Machine Learning** — regression, classification, and clustering models.  
+- 📋 **Reporting & Storytelling** — translating numbers into narratives for business stakeholders.  
+
+---
+
+## 📈 GitHub Highlights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Coolbuddy145&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbuddy145&layout=compact&theme=radical" alt="Top Languages" height="160"/>
@@ -68,13 +78,13 @@
 
 ---
 
-## 🎯 What I Do
-- **📊 Data Cleaning & Preprocessing** - Handling missing values, outliers, and data validation
-- **🔍 Exploratory Data Analysis (EDA)** - Uncovering patterns, trends, and relationships
-- **📈 Data Visualization** - Creating insightful dashboards and reports
-- **📋 SQL Querying** - Complex joins, aggregations, and window functions
-- **🤖 Machine Learning** - Building predictive models and classification algorithms
-- **📝 Reporting** - Translating technical findings into business recommendations
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🏠 **House Price Prediction** | Predicting housing prices using ML (UCI Dataset) | Python, Scikit-learn, Pandas |
+| 📊 **Blinkit Sales Dashboard** | Interactive sales insights using Power BI | Power BI, DAX, Power Query |
+| 🎓 **Student Mental Health Dashboard** | Analyzing academic stress and addiction | Excel, Power BI, SQL |
 
 ---
 
@@ -90,11 +100,10 @@
 
 ---
 
----
-
 <div align="center">
-  
+
 ### ⚡ Fun Fact
-*"Without data, you're just another person with an opinion." - W. Edwards Deming*
+*"Without data, you're just another person with an opinion." – W. Edwards Deming*  
+⭐ *Thanks for visiting! Feel free to explore my projects and drop a connection request on LinkedIn.*
 
 </div>
