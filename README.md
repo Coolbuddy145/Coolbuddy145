@@ -82,7 +82,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🏠 **House Price Prediction** | Predicted housing prices using regression models (UCI ML Dataset). Compared Linear, Ridge, Lasso & KNN algorithms for best performance. | Python, Scikit-learn, Pandas, Seaborn |
+| 🏠 **House Price Prediction using ML** | Predicted housing prices using regression models (UCI ML Dataset). Compared Linear, Ridge, Lasso & KNN algorithms for best performance. | Python, Scikit-learn, Pandas, Seaborn |
 | 🧬 **Cancer Statistical Analysis** | Performed exploratory and statistical data analysis to uncover factors influencing cancer rates and survival outcomes. | Python, Pandas, NumPy, Matplotlib, Seaborn |
 | 📉 **Customer Churn Analysis** | Identified key churn factors and created predictive insights using SQL, Python & Power BI integration. | SQL, Python, Power BI, DAX, Pandas |
 | 🎬 **Netflix SQL Project** | Analyzed Netflix dataset to extract insights on content trends, genre popularity, and regional patterns using SQL queries. | SQL, PostgreSQL, Excel |
