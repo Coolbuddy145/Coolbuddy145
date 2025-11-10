@@ -1,4 +1,4 @@
-aaa<!-- Banner Image -->
+<!-- Banner Image -->
 <p align="center">
   <img src="https://i.postimg.cc/KjfdBbYf/deng-xiang-WXQm-NTK0-U-unsplash.jpg" alt="Banner" width="1100" height="350"/>
 </p>
