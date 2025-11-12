@@ -1,6 +1,7 @@
 <!-- Coding Animation -->
 <p align="center">
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Data Dashboard Animation"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Matrix Code Flow"/>
+
 
 
 
