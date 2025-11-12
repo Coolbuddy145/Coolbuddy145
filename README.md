@@ -1,6 +1,6 @@
 <!-- Code Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Code Typing"/>
+ [ <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Code Typing"/>](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFrajZ1bXp6dnQyZW5hZ2gzZzJlendieXhpa2N1NG1laXUzMnYxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
 </p>
 </p>
 <p align="center">
