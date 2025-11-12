@@ -1,6 +1,6 @@
-<!-- Data Visualization Animation -->
+<!-- Code Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/H7CKd1GO6oiZQo7L5d/giphy.gif" width="600" alt="Data Visualization"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Code Typing"/>
 </p>
 </p>
 <p align="center">
