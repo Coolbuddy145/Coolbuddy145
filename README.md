@@ -1,6 +1,6 @@
-<!-- Analytics Dashboard Animation -->
+<!-- Python Data Science Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Analytics Dashboard"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="600" alt="Python Data Science"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaid+Khan!;Data+Analyst+💻;Turning+Raw+Data+into+Business+Intelligence+📊;" alt="Animated Typing Header" />
