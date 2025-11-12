@@ -1,6 +1,7 @@
 <!-- Coding Animation -->
 <p align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Matrix Code Flow"/>
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="600" alt="Neural Data Animation"/>
+
 
 
 
