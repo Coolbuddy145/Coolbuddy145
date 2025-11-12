@@ -1,6 +1,7 @@
 <!-- Coding Animation -->
 <p align="center">
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="600" alt="Neural Data Animation"/>
+<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="600" alt="Coding Animation"/>
+
 
 
 
