@@ -1,6 +1,7 @@
 <!-- Coding Animation -->
 <p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdhMm5xMzV6dDJqMWVtcnFtbmM1aDVoMml4Y2xsaXJtMW5kY2Y0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif?cid=ecf05e47v02zj8u6er8rkqljcc45rrl6kvsbv1zuv9n8b5la&ep=v1_gifs_search&rid=giphy.gif" width="600" alt="AI Data Animation"/>
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Data Dashboard Animation"/>
+
 
 
 </p>
