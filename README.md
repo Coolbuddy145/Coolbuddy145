@@ -1,6 +1,11 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Zaid+Khan;Data+Analyst+|+Turning+Raw+Data+into+Business+Intelligence" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Zaid+Khan;Data+Analyst+|+Turning+Raw+Data+into+Business+Intelligence;Passionate+about+SQL,+Python,+and+Power+BI;Transforming+Data+into+Strategic+Decisions" alt="Typing Animation" />
+</p>
+
+<!-- Animated Visualization -->
+<p align="center">
+  <img src="https://i.gifer.com/origin/1b/1bc7d1b1f0eb1d372222ed9585c143d8.gif" alt="Data Animation" width="500" height="300"/>
 </p>
 
 <h3 align="center">Data Analyst | Turning Raw Data into Business Intelligence</h3>
