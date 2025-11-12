@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaid+Khan!;Data+Analyst+💻;Turning+Raw+Data+into+Business+Intelligence+📊;" alt="Animated Typing Header" />
 </p>
+<!-- Coding Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Animation"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Zaid Khan</h1>
 <h3 align="center">Data Analyst | Turning Raw Data into Business Intelligence</h3>
