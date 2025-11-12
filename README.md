@@ -1,6 +1,6 @@
-<!-- Machine Learning Animation -->
+<!-- Modern Coding Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Machine Learning"/>
+  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="600" alt="Modern Coding"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaid+Khan!;Data+Analyst+💻;Turning+Raw+Data+into+Business+Intelligence+📊;" alt="Animated Typing Header" />
