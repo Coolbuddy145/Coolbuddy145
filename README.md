@@ -1,9 +1,8 @@
-<!-- Banner Image -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://i.postimg.cc/KjfdBbYf/deng-xiang-WXQm-NTK0-U-unsplash.jpg" alt="Banner" width="1100" height="350"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Zaid+Khan;Data+Analyst+|+Turning+Raw+Data+into+Business+Intelligence;Passionate+about+SQL,+Python,+and+Power+BI;Transforming+Data+into+Strategic+Decisions" alt="Typing Animation" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Zaid Khan</h1>
 <h3 align="center">Data Analyst | Turning Raw Data into Business Intelligence</h3>
 
 ---
