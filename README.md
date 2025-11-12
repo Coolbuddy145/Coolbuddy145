@@ -1,9 +1,6 @@
 <!-- Coding Animation -->
 <p align="center">
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="600" alt="Coding Animation"/>
-
-
-
+<img src="https://media.giphy.com/media/Urc1xY3WqURb1yM1lK/giphy.gif" width="600" alt="3D Data Chart Animation"/>
 
 
 
