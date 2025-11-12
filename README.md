@@ -1,10 +1,10 @@
 <!-- Coding Animation -->
 <p align="center">
-  <<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Developer coding"/>
->
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzR2OWMyY2g4a3lncjhqdWJ1N2VhMTM5bnE0ZzBzM2U3amxodXpvOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif" width="600" alt="Data Visualization Animation"/>
+
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaid+Khan!;Data+Analyst+💻;Turning+Raw+Data+into+Business+Intelligence+📊;" alt="Animated Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaid+Khan!, Data+Analyst+💻;Turning+Raw+Data+into+Business+Intelligence+📊;" alt="Animated Typing Header" />
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm Zaid Khan</h1> -->
