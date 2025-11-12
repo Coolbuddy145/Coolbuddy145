@@ -1,6 +1,6 @@
-<!-- Charts & Graphs Animation -->
+<!-- Machine Learning Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" alt="Charts Animation"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Machine Learning"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaid+Khan!;Data+Analyst+💻;Turning+Raw+Data+into+Business+Intelligence+📊;" alt="Animated Typing Header" />
