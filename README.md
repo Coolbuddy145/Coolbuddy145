@@ -1,6 +1,6 @@
 <!-- Coding Animation -->
 <p align="center">
-<img src="https://media.giphy.com/media/Urc1xY3WqURb1yM1lK/giphy.gif" width="600" alt="3D Data Chart Animation"/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="600" alt="Python Animation"/>
 
 
 
